@@ -1,0 +1,4 @@
+﻿  Lab 7.cpp
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 7\Lab 7\LinkedList.h(126): warning C4172: returning address of local variable or temporary: returnValue
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 7\Lab 7\LinkedList.h(136): warning C4172: returning address of local variable or temporary: returnValue
+  Lab 7.vcxproj -> C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 7\Debug\Lab 7.exe

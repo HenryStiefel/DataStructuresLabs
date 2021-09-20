@@ -1,0 +1,32 @@
+914
+842
+12.95
+Blue widget used for powering devices.
+False
+915
+416
+14.95
+Blue widget used for powering devices.
+False
+916
+916
+127
+18.95
+917
+514
+16.95
+918
+437
+21.95
+919
+269
+31.95
+920
+97
+14.95
+921
+492
+14.95
+922
+212
+16.95

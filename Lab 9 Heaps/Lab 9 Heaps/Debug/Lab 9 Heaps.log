@@ -1,0 +1,17 @@
+﻿  JobNode.cpp
+  Lab 9 Heaps.cpp
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\MinHeap.h(27,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\MinHeap.h(26): message : while compiling class template member function 'void MinHeap<MachineNode>::heapify_down(int)'
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\MinHeap.h(84): message : see reference to function template instantiation 'void MinHeap<MachineNode>::heapify_down(int)' being compiled
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\Lab 9 Heaps.cpp(17): message : see reference to class template instantiation 'MinHeap<MachineNode>' being compiled
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\MinHeap.h(32,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\MaxHeap.h(27,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\MaxHeap.h(26): message : while compiling class template member function 'void MaxHeap<JobNode>::heapify_down(int)'
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\MaxHeap.h(84): message : see reference to function template instantiation 'void MaxHeap<JobNode>::heapify_down(int)' being compiled
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\Lab 9 Heaps.cpp(16): message : see reference to class template instantiation 'MaxHeap<JobNode>' being compiled
+C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Lab 9 Heaps\MaxHeap.h(32,16): warning C4018: '<': signed/unsigned mismatch
+  MachineNode.cpp
+  MaxHeap.cpp
+  MinHeap.cpp
+  Generating Code...
+  Lab 9 Heaps.vcxproj -> C:\Users\hstie\Documents\Fall 2020 Semester\CS 2028 Data Structures\Lab\Lab 9 Heaps\Debug\Lab 9 Heaps.exe
